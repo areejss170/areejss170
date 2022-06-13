@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Areej
 - 👀 I’m interested in programming , network
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning sql ,full stack , network 
+- 💞️ I’m looking to collaborate on any project 
+- 📫 you can reach me on my twitter account Areej_cs or my Linkedin Areej Al-harbi
 
 <!---
 areejss170/areejss170 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
