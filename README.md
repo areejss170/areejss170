@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Areej
-- 👀 I’m interested in programming using python , network
+- 👀 interested in programming , Data , LLM
 - 🌱 I’m currently learning sql ,full stack , network 
 - 💞️ I’m looking to collaborate on any project 
 - 📫 you can reach me on my twitter account Areej_cs or my Linkedin Areej Al-harbi
